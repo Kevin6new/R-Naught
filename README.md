@@ -36,5 +36,3 @@ probability of contraction is calculated. Processed data is sent back to the
 corresponding user along with precautions needed to be taken. Therefore, this
 application can be used as a tool for creating further social awareness about the
 arising need of precautionary measures to be taken by the people of India.
-
-This is my undergrad final year project the owner of the repo where the project was stored was my group mate so I downloaded the project and uploaded it into my repo that is the reason why its showing it been uploaded recently.
